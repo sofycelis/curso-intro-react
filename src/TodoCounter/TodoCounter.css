@@ -1,0 +1,33 @@
+
+.header-Container{
+    width: 96%;
+    max-width: 960px;
+    margin: 0 auto;
+    flex-direction: row;
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: stretch;
+    justify-content: center;
+    margin-top: 20px;
+}
+.Title{
+    font-size: 42px;
+    text-align:left;
+    color: #372948;
+    
+}
+.img {
+    width: 150px;
+    height: auto;
+}
+
+.TodoCounter {
+    font-size: 30px;
+    text-align: center;
+    margin: 0;
+    padding: 24px;
+    font-family: Poppins;
+    color: #dc236d;
+    margin-top: 60px;
+    
+}
