@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/sofycelis/intro-react-app/static/css/main.1a920003.chunk.css",
+    "main.js": "/sofycelis/intro-react-app/static/js/main.9ff2e5fb.chunk.js",
+    "main.js.map": "/sofycelis/intro-react-app/static/js/main.9ff2e5fb.chunk.js.map",
+    "runtime-main.js": "/sofycelis/intro-react-app/static/js/runtime-main.df733d6a.js",
+    "runtime-main.js.map": "/sofycelis/intro-react-app/static/js/runtime-main.df733d6a.js.map",
+    "static/js/2.c5c79728.chunk.js": "/sofycelis/intro-react-app/static/js/2.c5c79728.chunk.js",
+    "static/js/2.c5c79728.chunk.js.map": "/sofycelis/intro-react-app/static/js/2.c5c79728.chunk.js.map",
+    "index.html": "/sofycelis/intro-react-app/index.html",
+    "static/css/main.1a920003.chunk.css.map": "/sofycelis/intro-react-app/static/css/main.1a920003.chunk.css.map",
+    "static/js/2.c5c79728.chunk.js.LICENSE.txt": "/sofycelis/intro-react-app/static/js/2.c5c79728.chunk.js.LICENSE.txt",
+    "static/media/kirby.png": "/sofycelis/intro-react-app/static/media/kirby.5a7633b0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df733d6a.js",
+    "static/js/2.c5c79728.chunk.js",
+    "static/css/main.1a920003.chunk.css",
+    "static/js/main.9ff2e5fb.chunk.js"
+  ]
+}
