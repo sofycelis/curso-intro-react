@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/curso-intro-react/static/css/main.1a920003.chunk.css",
-    "main.js": "/curso-intro-react/static/js/main.9ff2e5fb.chunk.js",
-    "main.js.map": "/curso-intro-react/static/js/main.9ff2e5fb.chunk.js.map",
+    "main.css": "/curso-intro-react/static/css/main.c7d689e6.chunk.css",
+    "main.js": "/curso-intro-react/static/js/main.7e57f7a8.chunk.js",
+    "main.js.map": "/curso-intro-react/static/js/main.7e57f7a8.chunk.js.map",
     "runtime-main.js": "/curso-intro-react/static/js/runtime-main.0ed6e848.js",
     "runtime-main.js.map": "/curso-intro-react/static/js/runtime-main.0ed6e848.js.map",
     "static/js/2.c5c79728.chunk.js": "/curso-intro-react/static/js/2.c5c79728.chunk.js",
     "static/js/2.c5c79728.chunk.js.map": "/curso-intro-react/static/js/2.c5c79728.chunk.js.map",
     "index.html": "/curso-intro-react/index.html",
-    "static/css/main.1a920003.chunk.css.map": "/curso-intro-react/static/css/main.1a920003.chunk.css.map",
+    "static/css/main.c7d689e6.chunk.css.map": "/curso-intro-react/static/css/main.c7d689e6.chunk.css.map",
     "static/js/2.c5c79728.chunk.js.LICENSE.txt": "/curso-intro-react/static/js/2.c5c79728.chunk.js.LICENSE.txt",
     "static/media/kirby.png": "/curso-intro-react/static/media/kirby.5a7633b0.png"
   },
   "entrypoints": [
     "static/js/runtime-main.0ed6e848.js",
     "static/js/2.c5c79728.chunk.js",
-    "static/css/main.1a920003.chunk.css",
-    "static/js/main.9ff2e5fb.chunk.js"
+    "static/css/main.c7d689e6.chunk.css",
+    "static/js/main.7e57f7a8.chunk.js"
   ]
 }
